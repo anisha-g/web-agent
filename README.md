@@ -17,7 +17,7 @@ To get started, ensure you have Python installed (3.8 or higher). Then, follow t
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/web-agent.git
+   git clone https://github.com/anisha-g/web-agent.git
    cd web-agent
    ```
 
